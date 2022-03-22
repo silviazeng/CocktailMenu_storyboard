@@ -4,18 +4,18 @@
 //
 //  Created by Xinhong Zeng on 3/20/22.
 //
-
+/*
 import UIKit
+
+class PicViewController: UIViewController {
+    @IBOutlet var collectionView:
+}
 
 class ViewController_fullmenu: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-    }
-    
-    @IBAction func didTapButton(){
-
     }
 
 }
@@ -29,4 +29,4 @@ class ViewController_pics: UIViewController {
 
 
 }
-
+*/
